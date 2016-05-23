@@ -1,6 +1,6 @@
 lmdb = {}
 require 'torch'
-include('ffi.lua')
+--include('ffi.lua')
 include('DB.lua')
 
 local ffi = require 'ffi'
